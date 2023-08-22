@@ -14,8 +14,8 @@
 
 <h2>Demo Screenshots</h2>
   
-  <img src="/images/screenshot1.png" alt="screenshot1" title="screenshot1" width="40%">
-  <img src="/images/screenshot2.png" alt="screenshot2" title="screenshot2" width="40%">
+  <img src="/images/screenshot1.png" alt="screenshot1" title="screenshot1" width="30%">
+  <img src="/images/screenshot2.png" alt="screenshot2" title="screenshot2" width="30%">
 
 <h2>Active Hosts</h2>
 
