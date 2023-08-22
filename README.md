@@ -13,10 +13,10 @@
 </div>
 
 <h2>Demo Screenshots</h2>
-  
+<p float="left" align="middle">
   <img src="/images/screenshot1.png" alt="screenshot1" title="screenshot1" width="40%">
   <img src="/images/screenshot2.png" alt="screenshot2" title="screenshot2" width="40%">
-
+</p>
 <h2>Active Hosts</h2>
 
 1. https://imshivlok.github.io/signup-v1/<br>
